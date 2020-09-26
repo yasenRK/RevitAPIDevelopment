@@ -3,3 +3,5 @@
 ################################################################################
 
 /RevitAPIDevelopment/RevitCore/obj/Debug
+/RevitAPIDevelopment/RevitProject/obj/Debug
+*.suo
